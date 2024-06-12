@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://lottie.host/embed/0f75b5de-fee6-4089-9738-1c328f9c5ffa/VL1O49Zbgr.json" width="200"/>
+  <iframe src="https://lottie.host/embed/0f75b5de-fee6-4089-9738-1c328f9c5ffa/VL1O49Zbgr.json" width="200"></iframe>
 </div>
 
 <div align="center">
