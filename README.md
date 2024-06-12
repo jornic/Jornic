@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📈 I'm constantly studying and looking for ways to improve each of my skills.
 - 🤝🏽 I'm always looking for ways to help others and learn from them. 
 - ⚡ In my free time read tech articles.
-- 📫 How to reach me: jornic17@gmail.com or  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/JordyP-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-parajon/)
+- 📫 How to reach me: jornic17@gmail.com or  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/JordyParajon-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordy-parajon/)
 
 <br/>
 
