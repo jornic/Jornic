@@ -9,6 +9,9 @@
    <a href="https://www.linkedin.com/in/jordy-parajon/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
+   <a href="https://twitter.com/@jordy_tellez" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+   </a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jordyp&style=flat-square&color=red" alt="JordyP" /> </p>
@@ -76,6 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 </td></tr></table>  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jornic&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
