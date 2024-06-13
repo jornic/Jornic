@@ -87,9 +87,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github-readme-stats.vercel.app/api?username=jornic&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 100%" />
 </div>  
 <br/>  
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornic&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jornic&theme=tokyonight" align="center" style="width: 47%" />
+<div align="center" gap="40px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornic&layout=compact&theme=tokyonight" align="center" style="width: 40%;height:200px;" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jornic&theme=tokyonight" align="center" style="width: 47%; height:200px;" />
 </div>  
 <br/>  
 <br/>  
